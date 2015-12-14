@@ -223,7 +223,7 @@ function create_config( )
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[TITANBOT v1
+    about_text = [[TeleTitan v1
 An advance Administration bot based on yagop/telegram-bot 
 
 https://github.com/TITANBOT/RT
